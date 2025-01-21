@@ -1,4 +1,4 @@
-package kata.christmas_lights;
+package kata.christmas_lights.part1;
 
 import lombok.Getter;
 

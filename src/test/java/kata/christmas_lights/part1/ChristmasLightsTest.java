@@ -1,6 +1,9 @@
-package kata.christmas_lights;
+package kata.christmas_lights.part1;
 
 import org.junit.jupiter.api.Test;
+
+import kata.christmas_lights.part1.ChristmasLights;
+import kata.christmas_lights.part1.Coordinate;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
